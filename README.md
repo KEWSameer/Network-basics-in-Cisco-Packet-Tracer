@@ -2,20 +2,6 @@
 
 A small office network lab built in Cisco Packet Tracer. It splits one switch into three VLANs (Sales, Dev, HR), routes traffic between them with a single router, and uses a standard ACL to block Sales traffic from reaching HR.
 
-## Table of Contents
-
-- Overview
-- Topology
-- Devices
-- Cabling
-- VLAN Plan
-- IP Addressing
-- Switch Configuration
-- Router Configuration
-- ACL Configuration
-- Testing
-- Key Takeaways
-
 ## Overview
 
 This lab covers three core networking skills:
